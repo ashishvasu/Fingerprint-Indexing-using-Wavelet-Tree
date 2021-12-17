@@ -25,7 +25,7 @@ This project intends to index fingerprints by passing them through templates and
 - run: Runs the main.sh script.
 
 ## Steps to run the program:
-- Clone the project using the command: `git clone "https://github.com/kartikeytewari/fingerprint" --depth 1`
+- Clone the project using the command: `git clone "https://github.com/ashishvasu/Fingerprint-Indexing-using-Wavelet-Tree" --depth 1`
 - Get in the project using `cd fingerprint`
 - Install all dependencies based on the operating system you are using.
 Dependencies such as GNU C++ compiler, python3, make and bash will be used.
@@ -35,4 +35,4 @@ Dependencies such as GNU C++ compiler, python3, make and bash will be used.
 - In the `./data/raw` folder make a single file for each fingerprint in the database. The files should be named serially for example `1.txt`, `2.txt`, `3.txt` and `4.txt`. Each file should contain x and y coordinates of minutiae points of the fingerprint.
 - To run the software, go to root of project and run: `make`.
 
-Feel free to contact me at <a href="mailto:kartikeya30@gmail.com">kartikeya30@gmail.com</a>.
+Feel free to contact me at <a href="mailto:dhiman.ashish123@gmail.com">dhiman.ashish123@gmail.com</a>.
